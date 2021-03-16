@@ -1,19 +1,18 @@
 
-@media screen and (max-width: 400px){
+@media screen and (min-width: 0px){
     body{
         background-color: tan 
     }
 }
 
-@media screen and (max-width: 800px){
+@media screen and (min-width: 400px){
     body{
         background-color: lightblue
     }
 }
 
-@media screen and (max-width: 1200px){
+@media screen and (min-width: 800px){
     body{
         background-color: lightpink
     }
 }
-d
